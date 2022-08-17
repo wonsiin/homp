@@ -10,6 +10,7 @@ body {
 p {
   font-size: 20px;
 }
+
 p.small {
   font-size: 16px;
 }
@@ -513,4 +514,7 @@ fieldset[disabled] .btn-success.active {
 }
 div#maincontent {
   outline: none;
+}
+#test11  {
+ text-align: left;
 }
